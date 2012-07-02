@@ -16,3 +16,6 @@ develop-eggs
 test-cache
 .emacs*
 pkg-cache
+lib
+lib64
+include
