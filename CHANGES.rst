@@ -1,4 +1,4 @@
-2.1 (unreleased)
+2.1 (2012-07-02)
 ================
 
 - Fixed setuptools-git problem.
