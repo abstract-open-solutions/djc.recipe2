@@ -1,4 +1,4 @@
-2.0 (unreleased)
+2.0 (2012-07-02)
 ================
 
 - Rewrite from `djc.recipe`_ [Simone Deponti]
