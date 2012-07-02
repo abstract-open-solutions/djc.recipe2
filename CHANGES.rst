@@ -1,7 +1,7 @@
 2.1 (unreleased)
 ================
 
-- Nothing changed yet.
+- Fixed setuptools-git problem.
 
 
 2.0 (2012-07-02)
