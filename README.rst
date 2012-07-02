@@ -87,10 +87,11 @@ Then you can run the tests using::
 Links
 *****
 
+.. image:: https://secure.travis-ci.org/abstract-open-solutions/djc.recipe2.png
+
 - Code repository: http://github.com/abstract-open-solutions/djc.recipe2
 - Discussions at https://groups.google.com/group/djcrecipe
 - Comments and questions at info@abstract.it
-- Build status: .. image:: https://secure.travis-ci.org/simonedeponti/djc.recipe2.png
 
 .. _`zc.buildout`: http://www.buildout.org/
 
